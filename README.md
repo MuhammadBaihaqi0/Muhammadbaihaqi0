@@ -50,9 +50,7 @@
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadbaihaqi0&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muhammadbaihaqi0&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbaihaqi0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=muhammadbaihaqi0&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=muhammadbaihaqi0&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbaihaqi0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadbaihaqi0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
