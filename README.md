@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Mhd Baihaqi From Bandung. 👋
 
 <!--
 **MuhammadBaihaqi0/Muhammadbaihaqi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
