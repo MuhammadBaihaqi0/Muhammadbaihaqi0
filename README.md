@@ -60,15 +60,15 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadbaihaqi0/muhammadbaihaqi0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadbaihaqi0/muhammadbaihaqi0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammadbaihaqi0/muhammadbaihaqi0/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBaihaqi0/MuhammadBaihaqi0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadBaihaqi0/MuhammadBaihaqi0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadBaihaqi0/MuhammadBaihaqi0/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/muhammadbaihaqi0/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/MuhammadBaihaqi0/count.svg?"  />
 </div>
 
 ###
