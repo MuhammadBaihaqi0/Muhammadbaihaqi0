@@ -57,6 +57,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadbaihaqi0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadbaihaqi0/muhammadbaihaqi0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadbaihaqi0/muhammadbaihaqi0/output/pacman-contribution-graph.svg">
